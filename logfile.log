@@ -1,0 +1,20 @@
+2018-04-13 01:39:53,683 INFO  Hello.. im in Info method 
+2018-04-13 01:39:53,684 WARN  Hello.. im in Warn method 
+2018-04-13 01:39:53,685 ERROR Hello.. im in Error method 
+2018-04-13 01:39:53,685 FATAL Hello.. im in Fatal method 
+2018-04-13 01:41:05,334 {MM-dd-yyyy HH:mm:ss}  [AppTest] Hello.. im in Info method 
+2018-04-13 01:41:05,336 {MM-dd-yyyy HH:mm:ss}  [AppTest] Hello.. im in Warn method 
+2018-04-13 01:41:05,336 {MM-dd-yyyy HH:mm:ss}  [AppTest] Hello.. im in Error method 
+2018-04-13 01:41:05,336 {MM-dd-yyyy HH:mm:ss}  [AppTest] Hello.. im in Fatal method 
+04-13-2018 01:41:30  [AppTest] Hello.. im in Info method 
+04-13-2018 01:41:30  [AppTest] Hello.. im in Warn method 
+04-13-2018 01:41:30  [AppTest] Hello.. im in Error method 
+04-13-2018 01:41:30  [AppTest] Hello.. im in Fatal method 
+04-13-2018 01:42:18 IST  [AppTest] Hello.. im in Info method 
+04-13-2018 01:42:18 IST  [AppTest] Hello.. im in Warn method 
+04-13-2018 01:42:18 IST  [AppTest] Hello.. im in Error method 
+04-13-2018 01:42:18 IST  [AppTest] Hello.. im in Fatal method 
+04-13-2018 01:43:58 IST  [AppTest] Hello.. im in Info method 
+04-13-2018 01:43:58 IST  [AppTest] Hello.. im in Warn method 
+04-13-2018 01:43:58 IST  [AppTest] Hello.. im in Error method 
+04-13-2018 01:43:58 IST  [AppTest] Hello.. im in Fatal method 

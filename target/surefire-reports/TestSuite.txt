@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 79.603 sec <<< FAILURE!
+testGoogleForIE(com.selenium.test.TestForGoogle)  Time elapsed: 34.423 sec  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<Google> but was:<WebDriver>
+	at junit.framework.Assert.assertEquals(Assert.java:81)
+	at junit.framework.Assert.assertEquals(Assert.java:87)
+	at com.selenium.test.TestForGoogle.testGoogleForIE(TestForGoogle.java:30)
+
